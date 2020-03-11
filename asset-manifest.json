@@ -1,15 +1,15 @@
 {
-  "main.css": "/order-box/static/css/main.53d7f31e.chunk.css",
-  "main.js": "/order-box/static/js/main.fa566404.chunk.js",
-  "main.js.map": "/order-box/static/js/main.fa566404.chunk.js.map",
+  "main.css": "/order-box/static/css/main.2057700c.chunk.css",
+  "main.js": "/order-box/static/js/main.98659701.chunk.js",
+  "main.js.map": "/order-box/static/js/main.98659701.chunk.js.map",
   "runtime~main.js": "/order-box/static/js/runtime~main.63e62b21.js",
   "runtime~main.js.map": "/order-box/static/js/runtime~main.63e62b21.js.map",
-  "static/js/2.4653e23b.chunk.js": "/order-box/static/js/2.4653e23b.chunk.js",
-  "static/js/2.4653e23b.chunk.js.map": "/order-box/static/js/2.4653e23b.chunk.js.map",
+  "static/js/2.1512137d.chunk.js": "/order-box/static/js/2.1512137d.chunk.js",
+  "static/js/2.1512137d.chunk.js.map": "/order-box/static/js/2.1512137d.chunk.js.map",
   "index.html": "/order-box/index.html",
-  "precache-manifest.c3724ec64e6ccc3d428dbc0fda78f121.js": "/order-box/precache-manifest.c3724ec64e6ccc3d428dbc0fda78f121.js",
+  "precache-manifest.6d02eb287173bda768998bdcbaf3badf.js": "/order-box/precache-manifest.6d02eb287173bda768998bdcbaf3badf.js",
   "service-worker.js": "/order-box/service-worker.js",
-  "static/css/main.53d7f31e.chunk.css.map": "/order-box/static/css/main.53d7f31e.chunk.css.map",
+  "static/css/main.2057700c.chunk.css.map": "/order-box/static/css/main.2057700c.chunk.css.map",
   "static/media/index.css": "/order-box/static/media/GTWalsheimPro-Medium.86882f7d.woff",
   "static/media/cross.svg": "/order-box/static/media/cross.27e7c55d.svg"
 }

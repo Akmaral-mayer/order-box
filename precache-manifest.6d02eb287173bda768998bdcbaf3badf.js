@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/order-box/static/js/runtime~main.63e62b21.js"
   },
   {
-    "revision": "707b3cf5637c135be83a",
-    "url": "/order-box/static/js/main.fa566404.chunk.js"
+    "revision": "127b4ef9afff4574b31f",
+    "url": "/order-box/static/js/main.98659701.chunk.js"
   },
   {
-    "revision": "00df514643205be8bcb5",
-    "url": "/order-box/static/js/2.4653e23b.chunk.js"
+    "revision": "fbba55bcf747c1518a81",
+    "url": "/order-box/static/js/2.1512137d.chunk.js"
   },
   {
-    "revision": "707b3cf5637c135be83a",
-    "url": "/order-box/static/css/main.53d7f31e.chunk.css"
+    "revision": "127b4ef9afff4574b31f",
+    "url": "/order-box/static/css/main.2057700c.chunk.css"
   },
   {
-    "revision": "33b8d91a7dba63316b2730a86ef16150",
+    "revision": "4f4a815c9749125b57e49b4a3b667b57",
     "url": "/order-box/index.html"
   }
 ];
