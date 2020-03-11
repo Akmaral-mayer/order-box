@@ -1,0 +1,27 @@
+.product {
+    display: inline-flex;
+    justify-content: space-around;
+    background: #70559b;
+    color: white;
+    padding: 12px;
+    border-radius: 6px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.8);
+    margin: 12px;
+    width: 300px;
+    align-items: center;
+    cursor: pointer;
+}
+
+.product:hover {
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.9);
+    transition: 500ms ease-in-out;
+}
+
+.icon {
+    width: 100px;
+    height: 100px;
+}
+
+.itemTitle {
+    font-size: 26px;
+}

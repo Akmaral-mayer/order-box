@@ -1,0 +1,51 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "sku": "hamburger.png",
+      "title": "Hamburger",
+      "price": 80,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 2,
+      "sku": "coffee.png",
+      "title": "Coffee",
+      "price": 100,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 3,
+      "sku": "tea.svg",
+      "title": "Tea",
+      "price": 20,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 4,
+      "sku": "cola.svg",
+      "title": "Cola",
+      "price": 50,
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 5,
+      "sku": "fries.svg",
+      "title": "Fries",
+      "price": 40,
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 6,
+      "sku": "cheeseburger.svg",
+      "title": "Cheeseburger",
+      "price": 120,
+      "isFreeShipping": false
+    }
+  ]
+}
