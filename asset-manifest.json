@@ -1,15 +1,15 @@
 {
-  "main.css": "/ecommerce-shopping-cart/static/css/main.3e87cb74.chunk.css",
-  "main.js": "/ecommerce-shopping-cart/static/js/main.a06a724d.chunk.js",
-  "main.js.map": "/ecommerce-shopping-cart/static/js/main.a06a724d.chunk.js.map",
-  "runtime~main.js": "/ecommerce-shopping-cart/static/js/runtime~main.e9daa8c9.js",
-  "runtime~main.js.map": "/ecommerce-shopping-cart/static/js/runtime~main.e9daa8c9.js.map",
-  "static/js/2.4653e23b.chunk.js": "/ecommerce-shopping-cart/static/js/2.4653e23b.chunk.js",
-  "static/js/2.4653e23b.chunk.js.map": "/ecommerce-shopping-cart/static/js/2.4653e23b.chunk.js.map",
-  "index.html": "/ecommerce-shopping-cart/index.html",
-  "precache-manifest.a3f3e84314c11c71057daff872eb054a.js": "/ecommerce-shopping-cart/precache-manifest.a3f3e84314c11c71057daff872eb054a.js",
-  "service-worker.js": "/ecommerce-shopping-cart/service-worker.js",
-  "static/css/main.3e87cb74.chunk.css.map": "/ecommerce-shopping-cart/static/css/main.3e87cb74.chunk.css.map",
-  "static/media/index.css": "/ecommerce-shopping-cart/static/media/GTWalsheimPro-Medium.86882f7d.woff",
-  "static/media/cross.svg": "/ecommerce-shopping-cart/static/media/cross.27e7c55d.svg"
+  "main.css": "/order-box/static/css/main.53d7f31e.chunk.css",
+  "main.js": "/order-box/static/js/main.fa566404.chunk.js",
+  "main.js.map": "/order-box/static/js/main.fa566404.chunk.js.map",
+  "runtime~main.js": "/order-box/static/js/runtime~main.63e62b21.js",
+  "runtime~main.js.map": "/order-box/static/js/runtime~main.63e62b21.js.map",
+  "static/js/2.4653e23b.chunk.js": "/order-box/static/js/2.4653e23b.chunk.js",
+  "static/js/2.4653e23b.chunk.js.map": "/order-box/static/js/2.4653e23b.chunk.js.map",
+  "index.html": "/order-box/index.html",
+  "precache-manifest.c3724ec64e6ccc3d428dbc0fda78f121.js": "/order-box/precache-manifest.c3724ec64e6ccc3d428dbc0fda78f121.js",
+  "service-worker.js": "/order-box/service-worker.js",
+  "static/css/main.53d7f31e.chunk.css.map": "/order-box/static/css/main.53d7f31e.chunk.css.map",
+  "static/media/index.css": "/order-box/static/media/GTWalsheimPro-Medium.86882f7d.woff",
+  "static/media/cross.svg": "/order-box/static/media/cross.27e7c55d.svg"
 }
